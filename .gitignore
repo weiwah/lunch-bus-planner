@@ -1,0 +1,13 @@
+# Ignore Node or Python dependencies if added later
+node_modules/
+__pycache__/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore environment/config files
+.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
